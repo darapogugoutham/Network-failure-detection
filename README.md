@@ -30,9 +30,6 @@ Project Structure:
    - Takes new network stats as input and predicts failure status
    - Displays prediction result
 
-4. read_data.py
-   - Loads and displays basic statistics about network_data.csv
-   - Checks for nulls, schema, and label distribution
 
 Dependencies:
 -------------
